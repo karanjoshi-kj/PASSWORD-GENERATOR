@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 26 15:40:18 2023
 
-@author: sidhu
-"""
 
 def maincode():
     print("Hello to main Code!!")
